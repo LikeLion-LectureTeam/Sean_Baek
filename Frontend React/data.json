@@ -1,0 +1,40 @@
+{
+    "nations": [
+    {
+        "title": "England",
+        "population": "400",
+        "id": "4",
+        "loc": "europe"
+    },
+    {
+        "title": "America",
+        "population": "500",
+        "id": "5",
+        "loc": "north-america"
+    },
+    {
+        "title": "Korea",
+        "population": "600",
+        "id": "6",
+        "loc": "asia"
+    },
+    {
+        "title": "Brazil",
+        "population": "700",
+        "id": "7",
+        "loc": "south-america"
+    },
+    {
+        "title": "Japan",
+        "population": "800",
+        "id": "8",
+        "loc": "asia"
+    },
+    {
+        "title": "Germany",
+        "population": "900",
+        "id": "9",
+        "loc": "europe"
+    }
+    ]
+}
